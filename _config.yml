@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Info"
   pronouns         : example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Evanston, IL"
   employer         : "The University of Chicago"
   uri              : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
