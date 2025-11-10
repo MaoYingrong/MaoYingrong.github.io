@@ -5,6 +5,8 @@ permalink: /Projects/
 ---
 
 <div class="projects-page">
+  <hr>
+  <hr>
   <h1>Working Papers</h1>
   <!-- <span class="section-kicker"></span> -->
 
@@ -16,9 +18,17 @@ permalink: /Projects/
         <h3>Language Models Surface the Unwritten Code of Science and Society</h3>
         <p><strong>Honglin Bao</strong>, Siyang Wu*, <strong>Jiwoong Choi*</strong>, <strong>Yingrong Mao*</strong>, James A. Evans<br>
         <em>(Under Review), Dec 2025</em></p>
+        <details class="abs" data-abstract>
+          <summary class="btn">Abstract</summary>
+          <div class="abs-body">
+            <p>
+              This paper calls on the research community not only to investigate how human biases are inherited by large language models (LLMs) but also to explore how these biases in LLMs can be leveraged to make society's "unwritten code" - such as implicit stereotypes and heuristics - visible and accessible for critique. We introduce a conceptual framework through a case study in science: uncovering hidden rules in peer review - the factors that reviewers care about but rarely state explicitly due to normative scientific expectations. The idea of the framework is to push LLMs to speak out their heuristics through generating self-consistent hypotheses - why one paper appeared stronger in reviewer scoring - among paired papers submitted to 45 academic conferences, while iteratively searching deeper hypotheses from remaining pairs where existing hypotheses cannot explain. We observed that LLMs' normative priors about the internal characteristics of good science extracted from their self-talk, e.g., theoretical rigor, were systematically updated toward posteriors that emphasize storytelling about external connections, such as how the work is positioned and connected within and across literatures. Human reviewers tend to explicitly reward aspects that moderately align with LLMs' normative priors (correlation = 0.49) but avoid articulating contextualization and storytelling posteriors in their review comments (correlation = -0.14), despite giving implicit reward to them with positive scores. These patterns are robust across different models and out-of-sample judgments. We discuss the broad applicability of our proposed framework, leveraging LLMs as diagnostic tools to amplify and surface the tacit codes underlying human society, enabling public discussion of revealed values and more precisely targeted responsible AI.
+            </p>
+          </div>
+        </details>
+        
         <p class="buttons">
-          <a class="btn" href="/files/unwritten-code-abstract.html">ABS</a>
-          <a class="btn" href="/files/unwritten-code-paper.html">HTML</a>
+          <a class="btn" href="https://arxiv.org/abs/2505.18942">HTML</a>
         </p>
       </div>
     </article>
