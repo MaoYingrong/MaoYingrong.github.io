@@ -44,7 +44,7 @@ Large language models (LLMs) trained on massive corpora of human knowledge show 
         </details>
         
         <p class="buttons">
-          <a class="btn" href="https://arxiv.org/abs/2505.18942">HTML</a>
+          <a class="btn" href="https://arxiv.org/abs/2505.18942">Link</a>
         </p>
       </div>
     </article>
@@ -61,30 +61,16 @@ Large language models (LLMs) trained on massive corpora of human knowledge show 
   <div class="projects-grid">
 
     <article class="project">
-      <img src="/images/unwritten.png" alt="Diagram for Unwritten Code project" loading="lazy">
+      <img src="/images/memes.png" alt="Diagram for Unwritten Code project" loading="lazy">
       <div>
-        <h3>Language Models Surface the Unwritten Code of Science and Society</h3>
-        <p><strong>Honglin Bao</strong>, Siyang Wu*, <strong>Jiwoong Choi*</strong>, <strong>Yingrong Mao*</strong>, James A. Evans<br>
-        <em>(Under Review), Dec 2025</em></p>
+        <h3>Meme Adaptability and Popularity: Investigating the Evolutionary Dynamics of Internet Meme Templates</h3>
+        <p>Yingrong Mao<br></p>
         <p class="buttons">
-          <a class="btn" href="/files/unwritten-code-abstract.html">ABS</a>
-          <a class="btn" href="/files/unwritten-code-paper.html">HTML</a>
+          <a class="btn" href="/files/IC2S2_extended_abstract.pdf">Link</a>
         </p>
       </div>
     </article>
 
-    <article class="project">
-      <img src="/images/animation.png" alt="Embeddings and clusters visualization" loading="lazy">
-      <div>
-        <h3>Academic Simulacra: Forecasting Research Ideas through Multi-Agent LLM Simulations</h3>
-        <p><u>Jiwoong Choi</u>, Donghyun Kang, <strong>Yingrong Mao</strong>, James Evans<br>
-        <em>(Poster) ACM Collective Intelligence, Aug 2025</em></p>
-        <p class="buttons">
-          <a class="btn" href="/files/simulacra-abs.html">ABS</a>
-          <a class="btn" href="/files/simulacra.html">HTML</a>
-        </p>
-      </div>
-    </article>
 
     <!-- add more <article> blocks as needed -->
 
