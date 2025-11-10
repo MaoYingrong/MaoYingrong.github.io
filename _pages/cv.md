@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<!-- ✅ Make sure your PDF is at /files/cv.pdf -->
-
 <div class="cv-header">
-  <a class="cv-btn" href="/files/CV_Yingrong_Mao.pdf" download>Download CV (PDF)</a>
+  <a class="cv-btn" href="/files/CV_Yingrong Mao.pdf" download>Download CV (PDF)</a>
   <a class="cv-btn outline" href="/files/cv.pdf" target="_blank" rel="noopener">Open in new tab</a>
 </div>
 
