@@ -6,7 +6,42 @@ permalink: /Projects/
 
 <div class="projects-page">
   <h1>Projects</h1>
-  <span class="section-kicker">selected projects</span>
+  <span class="section-kicker">Working Papers</span>
+
+  <div class="projects-grid">
+
+    <article class="project">
+      <img src="/images/unwritten.png" alt="Diagram for Unwritten Code project" loading="lazy">
+      <div>
+        <h3>Language Models Surface the Unwritten Code of Science and Society</h3>
+        <p><strong>Honglin Bao</strong>, Siyang Wu*, <strong>Jiwoong Choi*</strong>, <strong>Yingrong Mao*</strong>, James A. Evans<br>
+        <em>(Under Review), Dec 2025</em></p>
+        <p class="buttons">
+          <a class="btn" href="/files/unwritten-code-abstract.html">ABS</a>
+          <a class="btn" href="/files/unwritten-code-paper.html">HTML</a>
+        </p>
+      </div>
+    </article>
+
+    <article class="project">
+      <img src="/images/animation.png" alt="Embeddings and clusters visualization" loading="lazy">
+      <div>
+        <h3>Academic Simulacra: Forecasting Research Ideas through Multi-Agent LLM Simulations</h3>
+        <p><u>Jiwoong Choi</u>, Donghyun Kang, <strong>Yingrong Mao</strong>, James Evans<br>
+        <em>(Poster) ACM Collective Intelligence, Aug 2025</em></p>
+        <p class="buttons">
+          <a class="btn" href="/files/simulacra-abs.html">ABS</a>
+          <a class="btn" href="/files/simulacra.html">HTML</a>
+        </p>
+      </div>
+    </article>
+
+    <!-- add more <article> blocks as needed -->
+
+  </div>
+
+<h1>Projects</h1>
+  <span class="section-kicker">Works in Progress</span>
 
   <div class="projects-grid">
 
