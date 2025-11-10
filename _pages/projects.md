@@ -8,16 +8,32 @@ permalink: /Projects/
   <hr>
   <hr>
   <h1>Working Papers</h1>
-  <!-- <span class="section-kicker"></span> -->
 
   <div class="projects-grid">
 
     <article class="project">
+      <img src="/images/animation.png" alt="Embeddings and clusters visualization" loading="lazy">
+      <div>
+        <h3>Academic Simulacra: Forecasting Research Ideas through Multi-Agent LLM Simulations</h3>
+        <p>Jiwoong Choi*, Yingrong Mao*, Donghyun Kang, James Evans<br> 
+        <em>(*equal contribution)</em></p>
+        <details class="abs" data-abstract>
+          <summary class="btn">Abstract</summary>
+          <div class="abs-body">
+            <p>
+Large language models (LLMs) trained on massive corpora of human knowledge show strong abilities in reasoning, question answering, and knowledge synthesis. Linked to large-scale scholarly records, they can approximate scientific trajectories and plausible alternatives. We present a framework that simulates scholarly conversations among multi-agent LLMs instantiated as digital twins of real researchers, each grounded in publication histories. Modeling 8,269 authors of 2024 papers across nine flagship computer-science conferences, agents propose and refine hypothetical 2024 research ideas beyond the models’ knowledge cutoff. Generated ideas are compared with actual papers using semantic-similarity and convex-hull analyses at the author and conference levels. At the author level, cross-classification shows strong correspondence between generated and focal classifications (94.4% inside–inside; 85.3% outside–outside), indicating that simulations approximate researchers’ research directions. At the conference level, simulations produced at least one idea outside both 2023 and 2024 convex hulls for 99.1% of focal papers, but these ideas were more recombinatorial and less feasible than human-authored ones. Overall, the results suggest that LLM-based simulations mirror established patterns of scientific production but tend to extend into less immediately feasible directions, recombining existing ideas.
+            </p>
+          </div>
+        </details>
+      </div>
+    </article>
+
+        <article class="project">
       <img src="/images/unwritten.png" alt="Diagram for Unwritten Code project" loading="lazy">
       <div>
         <h3>Language Models Surface the Unwritten Code of Science and Society</h3>
-        <p><strong>Honglin Bao</strong>, Siyang Wu*, <strong>Jiwoong Choi*</strong>, <strong>Yingrong Mao*</strong>, James A. Evans<br>
-        <em>(Under Review), Dec 2025</em></p>
+        <p>Honglin Bao, Siyang Wu*, Jiwoong Choi*, Yingrong Mao*, James A. Evans<br>
+        <em>(*equal contribution)</em></p>
         <details class="abs" data-abstract>
           <summary class="btn">Abstract</summary>
           <div class="abs-body">
@@ -29,19 +45,6 @@ permalink: /Projects/
         
         <p class="buttons">
           <a class="btn" href="https://arxiv.org/abs/2505.18942">HTML</a>
-        </p>
-      </div>
-    </article>
-
-    <article class="project">
-      <img src="/images/animation.png" alt="Embeddings and clusters visualization" loading="lazy">
-      <div>
-        <h3>Academic Simulacra: Forecasting Research Ideas through Multi-Agent LLM Simulations</h3>
-        <p><u>Jiwoong Choi</u>, Donghyun Kang, <strong>Yingrong Mao</strong>, James Evans<br>
-        <em>(Poster) ACM Collective Intelligence, Aug 2025</em></p>
-        <p class="buttons">
-          <a class="btn" href="/files/simulacra-abs.html">ABS</a>
-          <a class="btn" href="/files/simulacra.html">HTML</a>
         </p>
       </div>
     </article>
