@@ -40,7 +40,6 @@ permalink: /Projects/
 
   </div>
 
-<h1>Projects</h1>
   <span class="section-kicker">Works in Progress</span>
 
   <div class="projects-grid">
