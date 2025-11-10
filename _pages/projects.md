@@ -5,8 +5,8 @@ permalink: /Projects/
 ---
 
 <div class="projects-page">
-  <h1>Projects</h1>
-  <span class="section-kicker">Working Papers</span>
+  <h1>Working Papers</h1>
+  <!-- <span class="section-kicker"></span> -->
 
   <div class="projects-grid">
 
@@ -39,8 +39,11 @@ permalink: /Projects/
     <!-- add more <article> blocks as needed -->
 
   </div>
-
-  <span class="section-kicker">Works in Progress</span>
+  
+  <hr>
+  <hr>
+  <h1>Works in Progress</h1>
+  <!-- <span class="section-kicker">Works in Progress</span> -->
 
   <div class="projects-grid">
 
